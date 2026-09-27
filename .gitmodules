@@ -7,5 +7,4 @@
 	url = https://github.com/sfalexrog/SDL_gfx
 [submodule "Sources/SDL"]
 	path = Sources/SDL
-	url = https://github.com/TobiWahnKenobi/SDL-mirror
-	branch = feature/ipados-hardware-keyboard
+	url = https://github.com/libsdl-org/SDL
