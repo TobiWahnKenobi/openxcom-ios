@@ -1,7 +1,7 @@
 [submodule "Sources/OpenXcom"]
 	path = Sources/OpenXcom
-	url = https://github.com/MeridianOXC/OpenXcom
-	branch = ios
+	url = https://github.com/TobiWahnKenobi/OpenXcom
+	branch = ios-local-fixes
 [submodule "Sources/SDL_gfx"]
 	path = Sources/SDL_gfx
 	url = https://github.com/sfalexrog/SDL_gfx

@@ -62,3 +62,6 @@ xcuserdata/
 
 
 # End of https://www.gitignore.io/api/macos,xcode
+
+### Claude Code pre-edit backups ###
+.backups/
